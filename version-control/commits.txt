@@ -1,0 +1,4 @@
+git init
+Initialized empty Git repository in C:/Users/rajio/Documents/version-control/.git/
+
+git add origin https://github.com/Ore-gits/version-control.git
